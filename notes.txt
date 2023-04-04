@@ -1,0 +1,16 @@
+1.routee.
+2.Outlet.
+3.NavLink.  
+     : to='/', ({isActive, isPending})
+     title='home link'
+     aria-label='Open menu'
+4.conditional rendering.
+
+5.Lotti animation use:
+      lotti animation  gia json format download dite hobe.
+      lotti-react a gia akta command run korte hobe.
+
+6. tailwind bulid in class make:
+       class name {
+        @apply  common style
+       }
